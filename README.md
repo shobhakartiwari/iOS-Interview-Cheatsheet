@@ -36,4 +36,7 @@ This is a comprehensive cheatsheet for iOS developer interviews, covering the mo
 
 ---
 
+PDF link: [iOS Developer Interview Cheatsheet.pdf](https://github.com/user-attachments/files/18420179/iOS.Developer.Interview.Cheatsheet.pdf)
+
+
 Feel free to suggest improvements or share your thoughts. Happy coding! 😊
